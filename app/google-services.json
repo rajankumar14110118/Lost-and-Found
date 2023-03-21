@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377692309898",
+    "project_id": "lf-app-777a0",
+    "storage_bucket": "lf-app-777a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377692309898:android:ef86798027548c1d092073",
+        "android_client_info": {
+          "package_name": "com.example.lf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377692309898-lplhdh4b0n9qu0tgl60tjjct7j5sc19c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN0_2rwQSPL1sNZgPqkOouq6E1Yet8rLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377692309898-lplhdh4b0n9qu0tgl60tjjct7j5sc19c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
